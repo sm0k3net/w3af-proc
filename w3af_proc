@@ -1,0 +1,3 @@
+#!/bin/sh
+sleep 5s
+/bin/bash /path/to/proc.sh
